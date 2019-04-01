@@ -1,1 +1,3 @@
 # PracticalTest01Var02
+BRINZAN IONUT
+343 C1
